@@ -1,0 +1,44 @@
+{
+    "background": {
+        "alpha": 255,
+        "url": "https:\/\/i.imgur.com\/kbHA5Sz.png",
+        "blur_radius": 1,
+        "overlay_alpha": 20
+    },
+    "colors": {
+        "brand": -5407038,
+        "brand_500": -5407038,
+        "brand_600": -5407038,
+        "brand_new": -5407038,
+        "flexInputIconColor": -1786495580,
+        "link": -14188851,
+        "link_light": -9459234,
+        "material_grey_50": -922636,
+        "uikit_btn_bg_color_selector_background_accent_light": -1120016,
+        "uikit_btn_bg_color_selector_green": -1644826,
+        "uikit_btn_bg_color_selector_red": 1602502052,
+        "uikit_btn_bg_color_selector_secondary_dark": -1644826,
+        "uikit_btn_bg_color_selector_secondary_light": -6129483,
+        "uikit_btn_compound_color_selector_light": -1116457584,
+        "primary_dark_660": 1134058931
+    },
+    "drawable_tints": {
+        "drawable_button_grey": -7434353,
+        "drawable_overlay_channels_active_dark": 2055486884,
+        "drawable_overlay_channels_selected_dark": -2138817116
+    },
+    "fonts": {},
+    "manifest": {
+        "author": "Skyluf",
+        "name": "Purple Glass",
+        "version": "1.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/skyluf\/Purple-Glass\/main\/Purple%20Glass.json"
+    },
+    "simple_colors": {
+        "accent": -1052689,
+        "background": 823925788,
+        "background_secondary": 840374039,
+        "mention_highlight": 1920367002
+    },
+    "raws": {}
+}
